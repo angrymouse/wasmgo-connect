@@ -1,0 +1,10 @@
+{
+  "name": "wasmgo-connect",
+  "version": "0.0.1",
+  "description": "Connect WASM-ed go (compiled by TinyGo) to JS easily",
+  "main": "index.js",
+  "repository": "https://github.com/angrymouse/wasmgo-connect",
+  "author": "Angrymouse <nik@hns.is>",
+  "license": "MIT",
+  "private": false
+}
